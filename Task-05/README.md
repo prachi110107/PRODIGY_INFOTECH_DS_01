@@ -16,8 +16,6 @@ Analyze traffic accident data to identify patterns related to road conditions, w
 - Matplotlib
 - Seaborn
 
----
-
 ## Project Workflow
 
 - Load Dataset
