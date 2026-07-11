@@ -394,4 +394,4 @@ Generated Output Files:
 ✔ SurvivalRate_Embarked.png
 
 All graphs have been saved successfully.
-""")
+""") 
